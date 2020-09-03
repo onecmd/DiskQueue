@@ -26,7 +26,7 @@ This DiskQueue can use disk to cache data when memory is full.
 Test codes:
 ```
 public void test(){
-        DiskCache<Integer> queue = new DiskCache<>("test", Integer.class, 60, 20, 1000, true, "./testqueue");
+        DiskQueue<Integer> queue = new DiskQueue<>("test", Integer.class, 60, 20, 1000, true, "./testqueue");
 
         for(int i=0; i<50; i++) {
             queue.add(i);
