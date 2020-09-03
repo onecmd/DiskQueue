@@ -57,6 +57,7 @@ Output:
 ## Performance test result
 ### Use heap memory only
 Heap is enough: read speed = write speed
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000
 
 - Total: 1200001
@@ -73,6 +74,7 @@ Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 195000, Heap:
 
 ### Disk cache used
 Used disk cache: read speed < write speed
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000
 
 - Total: 9900001
