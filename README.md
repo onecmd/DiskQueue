@@ -60,11 +60,15 @@ Heap is enough: read speed = write speed
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000
 
 - Total: 1200001
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 1, Heap: 1, InPool: 1, OutPool: 0, PersistedFiles: 0, LoadFromDisk: 0, diskFiles: 0, Write speed: 200200 /s
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 197000, Heap: 197000, InPool: 197, OutPool: 0, PersistedFiles: 0, LoadFromDisk: 0, diskFiles: 0, getted: 1203000, BatchSize: 1000,Read speed: 201798 /s
 
 - Total: 1400001
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 1, Heap: 1, InPool: 1, OutPool: 0, PersistedFiles: 0, LoadFromDisk: 0, diskFiles: 0, Write speed: 200200 /s
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 195000, Heap: 195000, InPool: 195, OutPool: 0, PersistedFiles: 0, LoadFromDisk: 0, diskFiles: 0, getted: 1405000, BatchSize: 1000,Read speed: 201798 /s
 
 ### Disk cache used
@@ -72,10 +76,14 @@ Used disk cache: read speed < write speed
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000
 
 - Total: 9900001
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 983001, Heap: 498001, InPool: 984, OutPool: 0, PersistedFiles: 3162, LoadFromDisk: 2677, diskFiles: 485, Write speed: 301175 /s
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 1000000, Heap: 499000, InPool: 1000, OutPool: 0, PersistedFiles: 3178, LoadFromDisk: 2677, diskFiles: 501, getted: 6648000, BatchSize: 1000,Read speed: 182634 /s
 
 - Total: 10200001
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 964477, Heap: 497477, InPool: 965, OutPool: 0, PersistedFiles: 3240, LoadFromDisk: 2773, diskFiles: 467, Write speed: 300300 /s
+
 Capacity: 1000000, HeapCapacity: 500000, DiskPageSize: 1000, Size: 1000000, Heap: 499000, InPool: 1000, OutPool: 0, PersistedFiles: 3274, LoadFromDisk: 2773, diskFiles: 501, getted: 6871000, BatchSize: 1000,Read speed: 222554 /s
 
